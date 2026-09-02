@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Patient and Equipment Management System",
+  "description": "An Object-Oriented C++ Academic Project for Hospital Patient and Medical Equipment Management with full CO3 & CO4 OOP concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
